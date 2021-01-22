@@ -37,6 +37,7 @@ There is currently no way to properly use this program, as i said its a **cluste
 # Linux(Ubuntu,Debian)
 
 Just put the source code on your desktop, And run the following command in the terminal:
+
 `cd Desktop`
 
 `cd waifu-rng-main`
