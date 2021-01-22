@@ -16,4 +16,5 @@ Installation
 
 # Linux
 
-Just download the 
+Just download the source code directly or if you wanna be a k00l hackerman do the following command in the terminal:
+`git clone https://github.com/ValtokIsHere/waifu-rng.git`
