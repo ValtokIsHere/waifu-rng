@@ -38,7 +38,9 @@ There is currently no way to properly use this program, as i said its a **cluste
 
 Just put the source code on your desktop, And run the following command in the terminal:
 `cd Desktop`
+
 `cd waifu-rng-main`
+
 `python3.x RNG.py`
 
 ***Don't write python3.x, instead of x input your python version. Example:*** `python3.8 RNG.py`
