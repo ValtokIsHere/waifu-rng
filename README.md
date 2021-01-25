@@ -48,7 +48,7 @@ Just put the source code on your desktop, And run the following commands in the 
 
 # Windows
 
-Haven't tested yet.
+**This is a workaround** You can download a python IDE and run the project in it. I recommend pycharm.
 
 # Mac
 
