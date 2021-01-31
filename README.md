@@ -5,6 +5,7 @@ Introduction
 ============
 
 I made this so you can talk with your favourite waifu using a random number generator! Just like Terry talked with god on his TempleOS but this doesnt require you installing a operatin system. It is just a GUI, this project is almost done. it just has to be perfected and more waifus to be added
+
 Dependencies
 ============
 
