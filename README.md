@@ -4,8 +4,7 @@ A beautiful project inspired by boredom and Mr.Terry who created TempleOS. Made 
 Introduction
 ============
 
-I made this so you can talk with your favourite waifu using a random number generator! Just like Terry talked with god on his TempleOS but this doesnt require you installing a operatin system. It is just a GUI, this is a work in progress and its currently an absolute **clusterfuck**
-
+I made this so you can talk with your favourite waifu using a random number generator! Just like Terry talked with god on his TempleOS but this doesnt require you installing a operatin system. It is just a GUI, this project is almost done. it just has to be perfected and more waifus to be added
 Dependencies
 ============
 
@@ -32,7 +31,7 @@ Download the source code directly and extract it on your desktop.
 
 Usage
 =====
-There is currently no way to properly use this program, as i said its a **clusterfuck**, but if you still want to test it go ahead
+I promise you a pretty buggy experience!
 
 # Linux(Ubuntu,Debian)
 
@@ -40,9 +39,9 @@ Just put the source code on your desktop, And run the following commands in the 
 
 `cd Desktop`
 
-`cd waifu-rng-main`
+`cd waifurng`
 
-`python3.x RNG.py`
+`python3.x waifu.py`
 
 ***Don't write python3.x, instead of x input your python version. Example:*** `python3.8 RNG.py`
 
@@ -64,8 +63,5 @@ Notes and todo
 ***You are free to do anything you want with this program, but if you want to modify it and make a better version please credit me.***
 
 **Todo:**
-1. make both windows appear at the same time
-2. make the rng show some input on the window
-3. add more words
-4. add more waifus!
-5. make an input system so you can select a waifu
+1. add more waifus!
+2. make an input system so you can select a waifu
