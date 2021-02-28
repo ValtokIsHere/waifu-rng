@@ -65,4 +65,3 @@ Notes and todo
 
 **Todo:**
 1. add more waifus!
-2. make an input system so you can select a waifu
