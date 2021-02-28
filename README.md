@@ -32,7 +32,6 @@ Download the source code directly and extract it on your desktop.
 
 Usage
 =====
-I promise you a pretty buggy experience!
 
 # Linux(Ubuntu,Debian)
 
